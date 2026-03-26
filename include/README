@@ -1,0 +1,7 @@
+what i changed:
+
+```c
+#define LV_FONT_UNSCII_8     1
+#define LV_ANTIALIAS        0
+#define LV_MEM_SIZE    (12U * 1024U)
+```
